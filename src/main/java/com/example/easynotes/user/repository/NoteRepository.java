@@ -1,6 +1,6 @@
-package com.example.user.repository;
+package com.example.easynotes.user.repository;
 
-import com.example.user.model.Note;
+import com.example.easynotes.user.model.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

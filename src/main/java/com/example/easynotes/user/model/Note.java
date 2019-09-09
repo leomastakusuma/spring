@@ -1,4 +1,4 @@
-package com.example.user.model;
+package com.example.easynotes.user.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.data.annotation.CreatedDate;
